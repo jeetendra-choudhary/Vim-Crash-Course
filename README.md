@@ -12,3 +12,16 @@ This is a comprehansive user guide to start using vim. I am preparing it as I le
 
 ### Vim Modes
  -  I am going to talk about this soon.
+
+
+# General Unix/Linux/Mac utilities
+
+- Alias
+  - cls/clear - This is a common practice to write `clear` in terminal for unix user to clean the terminal however the same thing is available in windows as cls, so lets create an alias for this and use as a common command in both platform. I found 'cls' more useful since it saves some keystrokes
+  ```
+  alias cls='clear'
+  ```
+  - cd../cd .. - This is obivious in windows `cd..` works fine but in unix it is `cd ..` so again lets save one key stroke here 
+  ```
+  alias cd..='cd ..'
+  ```
