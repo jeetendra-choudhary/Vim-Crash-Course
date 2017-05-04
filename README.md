@@ -4,14 +4,11 @@ This is a comprehansive user guide to start using vim. I am preparing it as I le
 
 ## Important Plugins
 
-- Vim Plug - Plugin manager to manage all the plugin you are going to install to help you with code completion, syntax formatting and others.
-- YouCompleteMe - YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim.
-- Tern for Vim - This is a Vim plugin that provides Tern-based JavaScript editing support.
+- [Vim Plug](https://github.com/junegunn/vim-plug) - Plugin manager to manage all the plugin you are going to install to help you with code completion, syntax formatting and others.
+- [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim.
+- [apt-vim](https://github.com/egalpin/apt-vim) - Yet another plugin manager for vim, required for installing next plugin.
+- [Tern for Vim](https://github.com/ternjs/tern_for_vim) - This is a Vim plugin that provides Tern-based JavaScript editing support.
 
-
-
-### Vim Modes
- -  I am going to talk about this soon.
 
 
 # General Unix/Linux/Mac utilities
